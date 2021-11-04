@@ -1,0 +1,531 @@
+Question_Id,Actual_Question,Question_Field,Question_Type,Total_Views,Total_Answers,Total_Correct,Total_Incorrect,Correct_Statement,Incorrect_Statement,Quiz_Date,,Percent_Correct,Percent_Incorrect,Percent_Participate,Real Number,Avarage Views
+1,What is considered neutral on the pH scale?,Chemistry,Question,191,67,61,6,a pH of 7,a pH of 0,10/05/2019,,91.04%,8.96%,35.08%,1,126.545283
+2,What allows electricity to flow?,Physics,Question,187,63,57,6,Conductor,Insulator,10/05/2019,,90.48%,9.52%,33.69%,2,126.545283
+3,What element is a diamond made of?,Chemistry,Question,179,63,53,10,Carbon,Silicon,10/05/2019,,84.13%,15.87%,35.20%,3,126.545283
+4,How do you write Giga in scientific notation,General,Question,176,61,42,19,10^9,10^12,10/05/2019,,68.85%,31.15%,34.66%,4,126.545283
+5,What changes as gravity changes?,Physics,Question,169,62,35,27,Weight,Mass,10/05/2019,,56.45%,43.55%,36.69%,5,126.545283
+6,The Earth is the __ planet from the sun.,Astronomy,Fill in,194,68,55,13,3rd,5th,17/05/2019,,80.88%,19.12%,35.05%,1,126.545283
+7,Another word used to describe Rusting?,Chemistry,Question,180,65,62,3,Oxidation,Acidification,17/05/2019,,95.38%,4.62%,36.11%,2,126.545283
+8,Sound travels faster than light.,Physics,True or False,177,65,53,12,FALSE,TRUE,17/05/2019,,81.54%,18.46%,36.72%,3,126.545283
+9,Atoms are made of protons neutrons and __.,Physics,Fill in,171,60,58,2,Electrons,Photons,17/05/2019,,96.67%,3.33%,35.09%,4,126.545283
+10,"If a fly hits a bus, which one experiences more force?",Physics,Question,166,61,51,10,They experience the same force,The fly,17/05/2019,,83.61%,16.39%,36.75%,5,126.545283
+11,Force is measured in __.,Physics,Fill in,196,69,65,4,Newtons,Pascals,24/05/2019,,94.20%,5.80%,35.20%,1,126.545283
+12,The boiling point of water changes with altitude.,Physics,True or False,186,66,46,20,TRUE,FALSE,24/05/2019,,69.70%,30.30%,35.48%,2,126.545283
+13,Sound can't travel through __.,Physics,Fill in,178,68,56,12,A vacuum,Water,24/05/2019,,82.35%,17.65%,38.20%,3,126.545283
+14,Energy can not be created or __.,Physics,Fill in,171,68,63,5,Destroyed,Converted,24/05/2019,,92.65%,7.35%,39.77%,4,126.545283
+15,How many planets are in our solar system?,Astronomy,Question,159,65,34,31,Eight,Nine,24/05/2019,,52.31%,47.69%,40.88%,5,126.545283
+16,A reaction that releases heat is __.,Chemistry,Fill in,197,79,72,7,Exothermic,Endothermic,31/05/2019,,91.14%,8.86%,40.10%,1,126.545283
+17,What are the units for density?,General,Question,185,76,56,20,kg/m^3,N*m,31/05/2019,,73.68%,26.32%,41.08%,2,126.545283
+18,Conventional current flows in which direction?,Physics,Question,180,77,41,36,Positive to Negative,Negative to Positive,31/05/2019,,53.25%,46.75%,42.78%,3,126.545283
+19,The transfer of heat is known as __.,Physics,Fill in,171,73,21,52,Convection,Conduction,31/05/2019,,28.77%,71.23%,42.69%,4,126.545283
+20,Plastic could be considered to be __.,Chemistry,Fill in,163,73,70,3,A Polymer,An Ester,31/05/2019,,95.89%,4.11%,44.79%,5,126.545283
+21,Life on Earth is considered to be __ based.,Biology,Fill in,157,63,49,14,Carbon,Hydrogen,14/06/2019,,77.78%,22.22%,40.13%,1,126.545283
+22,There are more than 3 states of matter.,Physics,True or False,150,59,32,27,TRUE,FALSE,14/06/2019,,54.24%,45.76%,39.33%,2,126.545283
+23,A light-year is used to measure __.,Astronomy,Fill in,140,57,36,21,Distance,Time,14/06/2019,,63.16%,36.84%,40.71%,3,126.545283
+24,Electron orbitals are separated by __.,Physics,Fill in,132,54,26,28,Discrete energy levels,Continuous energy levels,14/06/2019,,48.15%,51.85%,40.91%,4,126.545283
+25,Water moves from a higher concentration to a lower concentration via __.,Chemistry,Fill in,127,56,39,17,Osmosis,Diffusion,14/06/2019,,69.64%,30.36%,44.09%,5,126.545283
+26,When do atoms share electrons?,Chemistry,Question,167,58,34,24,Covalent bonding,Ionic bonding,21/06/2019,,58.62%,41.38%,34.73%,1,126.545283
+27,What is the most abundant element in our atmosphere?,Chemistry,Question,153,61,43,18,Nitrogen,Oxygen,21/06/2019,,70.49%,29.51%,39.87%,2,126.545283
+28,Platinum is an inert element.,Chemistry,True or False,145,59,40,19,TRUE,FALSE,21/06/2019,,67.80%,32.20%,40.69%,3,126.545283
+29,We have day and night because __.,Astronomy,Fill in,139,61,35,26,The earth rotates in place,The earth revolves around the sun,21/06/2019,,57.38%,42.62%,43.88%,4,126.545283
+30,Mars is smaller than Earth.,Astronomy,True or False,136,59,35,24,TRUE,FALSE,21/06/2019,,59.32%,40.68%,43.38%,5,126.545283
+31,The double-slit experiment proves that __.,Physics,Fill in,177,57,43,14,Light is a particle and a wave,Light is a form of energy.,28/06/2019,,75.44%,24.56%,32.20%,1,126.545283
+32,Voltage can be calculated using __.,Physics,Fill in,165,59,37,22,Current times Resistance,Current divided by Resistance,28/06/2019,,62.71%,37.29%,35.76%,2,126.545283
+33,Brass is an alloy.,Chemistry,True or False,151,57,45,12,TRUE,FALSE,28/06/2019,,78.95%,21.05%,37.75%,3,126.545283
+34,Light travels faster in the air than in water.,Physics,True or False,149,61,41,20,TRUE,FALSE,28/06/2019,,67.21%,32.79%,40.94%,4,126.545283
+35,What process creates the energy of the Sun.,Physics,Question,142,57,26,31,Nuclear Fusion,Nuclear Fission,28/06/2019,,45.61%,54.39%,40.14%,5,126.545283
+36,Velocity is a scalar value.,Physics,True or False,171,61,37,24,FALSE,TRUE,05/07/2019,,60.66%,39.34%,35.67%,1,126.545283
+37,Why would a powder react faster than a solid chunk?,Chemistry,Question,158,61,47,14,It has a larger surface area,it's less dense,05/07/2019,,77.05%,22.95%,38.61%,2,126.545283
+38,Lighting helps to add lighting to the soil.,Geography,True or False,151,59,46,13,TRUE,FALSE,05/07/2019,,77.97%,22.03%,39.07%,3,126.545283
+39,The brain is made up of __.,Biology,Fill in,146,58,54,4,Neurons,Perceptrons,05/07/2019,,93.10%,6.90%,39.73%,4,126.545283
+40,The closer a planet is to the Sun the shorter its year is.,Astronomy,True or False,142,59,43,16,TRUE,FALSE,05/07/2019,,72.88%,27.12%,41.55%,5,126.545283
+41,Radio waves and gamma rays are electromagnetic waves.,Physics,True or False,168,58,43,15,TRUE,FALSE,12/07/2019,,74.14%,25.86%,34.52%,1,126.545283
+42,"On Earth, the higher you go __.",Geography,Fill in,153,62,59,3,The cooler it gets,The warmer it gets,12/07/2019,,95.16%,4.84%,40.52%,2,126.545283
+43,Earth's gravity has an acceleration of 9.81 m/s^2,Physics,True or False,149,60,49,11,TRUE,FALSE,12/07/2019,,81.67%,18.33%,40.27%,3,126.545283
+44,How does the Earth create its magnetic field?,Physics,Question,146,60,46,14,Rotation of its molten core,Magnetic material in its crust,12/07/2019,,76.67%,23.33%,41.10%,4,126.545283
+45,Hydroelectric power plants use __.,Physics,Fill in,135,61,53,8,Potential energy to make electric energy,Chemical energy to make electric energy,12/07/2019,,86.89%,13.11%,45.19%,5,126.545283
+46,A thermostat can be used for __,Physics,Fill in,183,77,68,9,Temperature control,Pressure control,19/07/2019,,88.31%,11.69%,42.08%,1,126.545283
+47,0 degrees Kelvin is less than 0 degrees Celsius.,Chemistry,True or False,177,73,49,24,TRUE,FALSE,19/07/2019,,67.12%,32.88%,41.24%,2,126.545283
+48,What does the tissue in our bodies form?,Biology,Question,155,72,44,28,Organs,Cells,19/07/2019,,61.11%,38.89%,46.45%,3,126.545283
+49,"Reptiles are cold-blooded, which means __",Biology,Fill in,163,70,51,19,They can't control their body temperature,They can't give birth to live young,19/07/2019,,72.86%,27.14%,42.94%,4,126.545283
+50,The brain has more connections than stars in the Universe.,Biology,True or False,156,72,58,14,TRUE,FALSE,19/07/2019,,80.56%,19.44%,46.15%,5,126.545283
+51,The decay of radioactive material is measured in __.,Chemistry,Fill in,167,65,48,17,Half-lives,Electromagnetic waves,26/07/2019,,73.85%,26.15%,38.92%,1,126.545283
+52,All dogs are descendants of wolves.,Biology,True or False,155,64,33,31,TRUE,FALSE,26/07/2019,,51.56%,48.44%,41.29%,2,126.545283
+53,How many atoms does a molecule of water have?,Chemistry,Question,142,69,56,13,Three,Two,26/07/2019,,81.16%,18.84%,48.59%,3,126.545283
+54,What is the first step of the scientific method?,General,Question,133,63,17,46,Observation,Hypothesis,26/07/2019,,26.98%,73.02%,47.37%,4,126.545283
+55,A carbon atom can form __ covalent bonds at most.,Chemistry,Fill in,131,61,37,24,Four,Six,26/07/2019,,60.66%,39.34%,46.56%,5,126.545283
+56,Electromagnets need electricity to function.,Physics,True or False,168,60,30,30,TRUE,FALSE,02/08/2019,,50.00%,50.00%,35.71%,1,126.545283
+57,What element is added to iron to make steel?,Chemistry,Question,152,60,51,9,Carbon,Silicon,02/08/2019,,85.00%,15.00%,39.47%,2,126.545283
+58,The liver generates the most heat in our bodies.,Biology,True or False,138,60,32,28,TRUE,FALSE,02/08/2019,,53.33%,46.67%,43.48%,3,126.545283
+59,__ is the largest planet in our solar system.,Astronomy,Fill in,133,59,44,15,Jupiter,Saturn,02/08/2019,,74.58%,25.42%,44.36%,4,126.545283
+60,A galvanometer can be used to measure __.,Physics,Fill in,129,57,30,27,Current,Voltage,02/08/2019,,52.63%,47.37%,44.19%,5,126.545283
+61,The human sleep cycle has multiple phases.,Biology,True or False,155,66,65,1,TRUE,FALSE,09/08/2019,,98.48%,1.52%,42.58%,1,126.545283
+62,What is a piezoelectric material?,Physics,Question,146,62,33,29,It produces a current when squeezed,It produces a current when exposed to light,09/08/2019,,53.23%,46.77%,42.47%,2,126.545283
+63,Spiders and ticks are in the same animal class.,Biology,True or False,141,64,36,28,TRUE,FALSE,09/08/2019,,56.25%,43.75%,45.39%,3,126.545283
+64,What are atoms made of?,Physics,Question,134,62,31,31,Quarks,"Nothing, they are the smallest thing",09/08/2019,,50.00%,50.00%,46.27%,4,126.545283
+65,Hawking radiation is related to the study of __.,Astronomy,Fill in,136,61,49,12,Black holes,Radioactive waste,09/08/2019,,80.33%,19.67%,44.85%,5,126.545283
+66,An anemometer is used to measure what?,Geography,Question,166,58,33,25,Wind speed,Air pressure,16/08/2019,,56.90%,43.10%,34.94%,1,126.545283
+67,It's correct to call the Moon a satellite.,Astronomy,True or False,153,60,37,23,TRUE,FALSE,16/08/2019,,61.67%,38.33%,39.22%,2,126.545283
+68,Why is a desert so cold at night?,Geography,Question,145,60,30,30,The sand cannot hold heat,There are no clouds to trap heat,16/08/2019,,50.00%,50.00%,41.38%,3,126.545283
+69,The equatorial climate has 2 seasons.,Geography,True or False,138,60,41,19,TRUE,FALSE,16/08/2019,,68.33%,31.67%,43.48%,4,126.545283
+70,The transition from a solid to a gas is known as __.,Chemistry,Fill in,152,58,43,15,Sublimation,Evaporation,16/08/2019,,74.14%,25.86%,38.16%,5,126.545283
+71,The Richter scale is used to measure what?,Geography,Question,170,63,57,6,The magnitude of an earthquake,The intensity of a hurricane,23/08/2019,,90.48%,9.52%,37.06%,1,126.545283
+72,Magma and lava are the same things.,Geography,True or False,162,65,50,15,FALSE,TRUE,23/08/2019,,76.92%,23.08%,40.12%,2,126.545283
+73,Vaccines are designed to __ diseases.,Biology,Fill in,155,67,65,2,Prevent,Cure,23/08/2019,,97.01%,2.99%,43.23%,3,126.545283
+74,75% of the Earth’s surface is covered by water?,Geography,True or False,152,68,66,2,TRUE,FALSE,23/08/2019,,97.06%,2.94%,44.74%,4,126.545283
+75,__ planets in our solar system have rings.,Astronomy,Fill in,152,67,56,11,Four,Two,23/08/2019,,83.58%,16.42%,44.08%,5,126.545283
+76,What is a meniscus?,Chemistry,Question,168,70,55,15,The curved surface of a liquid,A membrane that traps duct which enters the nose.,30/08/2019,,78.57%,21.43%,41.67%,1,126.545283
+77,What is a nebula?,Astronomy,Question,160,70,32,38,A cloud of dust in space,A group of stars,30/08/2019,,45.71%,54.29%,43.75%,2,126.545283
+78,Bees eat their honey.,General,True or False,152,68,24,44,TRUE,FALSE,30/08/2019,,35.29%,64.71%,44.74%,3,126.545283
+79,Muscles can contract and expand.,Biology,True or False,151,69,8,61,FALSE,TRUE,30/08/2019,,11.59%,88.41%,45.70%,4,126.545283
+80,__ was built to study subatomic particles.,Physics,Fill in,156,64,31,33,The large hadron collider,The electron microscope,30/08/2019,,48.44%,51.56%,41.03%,5,126.545283
+81,A lunar eclipse occurs when __,Astronomy,Fill in,160,57,19,38,the Earth is in a straight line between the Moon and the Sun,the Moon is in a straight line between the Earth and the Sun,06/09/2019,,33.33%,66.67%,35.63%,1,126.545283
+82,Dehydration is the process of __,Chemistry,Fill in,148,56,41,15,Removing moisture,Removing hydrogen atoms,06/09/2019,,73.21%,26.79%,37.84%,2,126.545283
+83,Catalytic converters contain which precious metal?,Chemistry,Question,145,52,35,17,Platinum,Silver,06/09/2019,,67.31%,32.69%,35.86%,3,126.545283
+84,Hertz is a unit that measures frequency.,General,True or False,139,49,47,2,TRUE,FALSE,06/09/2019,,95.92%,4.08%,35.25%,4,126.545283
+85,Electrons are considered to have a positive charge.,Chemistry,True or False,145,54,43,11,FALSE,TRUE,06/09/2019,,79.63%,20.37%,37.24%,5,126.545283
+86,The Hypothalamus helps to regulate body temperature.,Biology,True or False,186,72,61,11,TRUE,FALSE,13/09/2019,,84.72%,15.28%,38.71%,1,126.545283
+87,Which specialized protein is found in hair and nails?,Biology,Question,170,74,66,8,Keratin,Myosin,13/09/2019,,89.19%,10.81%,43.53%,2,126.545283
+88,The International Space Station travels at 7.66 km/s.,General,True or False,163,71,32,39,TRUE,FALSE,13/09/2019,,45.07%,54.93%,43.56%,3,126.545283
+89,Acetone is an ingredient in paint thinner and __,Chemistry,Fill in,160,74,71,3,Nail polish remover,Drain cleaner,13/09/2019,,95.95%,4.05%,46.25%,4,126.545283
+90,Which byproduct is produced by hydrogen fuel cells?,Chemistry,Question,151,73,43,30,Water,Methane,13/09/2019,,58.90%,41.10%,48.34%,5,126.545283
+91,Computers use the __ number system for calculations,Comouter Science,Fill in,193,80,71,9,Binary,Decimal,20/09/2019,,88.75%,11.25%,41.45%,1,126.545283
+92,What happens when we split a permanent magnet into 2?,Physics,Question,170,77,60,17,We now have to functioning magnets,Our only magnet is broken beyond repair,20/09/2019,,77.92%,22.08%,45.29%,2,126.545283
+93,DNA is found in a cell's __,Biology,Fill in,161,78,62,16,Nucleus,Membrane,20/09/2019,,79.49%,20.51%,48.45%,3,126.545283
+94,Which of these is nicknamed the feel-good hormone?,Biology,Question,154,77,60,17,Oxytocin,Adrenaline,20/09/2019,,77.92%,22.08%,50.00%,4,126.545283
+95,Helium-3 on the Moon's surface could create energy.,Chemistry,True or False,156,74,57,17,TRUE,FALSE,20/09/2019,,77.03%,22.97%,47.44%,5,126.545283
+96,What are capillaries?,Biology,Question,178,60,43,17,Fine branching blood vessels,Musular walled tubes that transport blood,27/09/2019,,71.67%,28.33%,33.71%,1,126.545283
+97,The term Nanobot refers to __,General,Fill in,159,62,57,5,Tiny robots,Robots with nine legs,27/09/2019,,91.94%,8.06%,38.99%,2,126.545283
+98,Geothermal energy is not a renewable energy source.,Geography,True or False,153,60,49,11,FALSE,TRUE,27/09/2019,,81.67%,18.33%,39.22%,3,126.545283
+99,Sunlight can not penetrate the ocean at a depth of one kilometer.,General,True or False,147,61,34,27,TRUE,FALSE,27/09/2019,,55.74%,44.26%,41.50%,4,126.545283
+100,"The ""C"" in E=MC^2 represents __",Physics,Fill in,153,60,50,10,The speed of light,Acceleration of gravity,27/09/2019,,83.33%,16.67%,39.22%,5,126.545283
+101,What are enzymes made of?,Biology,Question,175,71,65,6,Amino Acids,Stem cells,04/10/2019,,91.55%,8.45%,40.57%,1,126.545283
+102,An electric motor has a rotor and __,Physics,Fill in,162,70,53,17,Stator,Flywheel,04/10/2019,,75.71%,24.29%,43.21%,2,126.545283
+103,Transition metals have a block on the periodic table.,Chemistry,True or False,153,69,50,19,TRUE,FALSE,04/10/2019,,72.46%,27.54%,45.10%,3,126.545283
+104,Wireless charging is possible with electromagnetic force.,Physics,True or False,146,66,54,12,TRUE,FALSE,04/10/2019,,81.82%,18.18%,45.21%,4,126.545283
+105,There are less than 300 different species of ants.,Biology,True or False,142,68,53,15,FALSE,TRUE,04/10/2019,,77.94%,22.06%,47.89%,5,126.545283
+106,Solar sails use sunlight to propel space ships.,Physics,True or False,169,61,42,19,TRUE,FALSE,11/10/2019,,68.85%,31.15%,36.09%,1,126.545283
+107,How long is a trip to the Moon?,Astronomy,Question,160,66,29,37,Three days,Seven days,11/10/2019,,43.94%,56.06%,41.25%,2,126.545283
+108,A flower's pollen is produced by its __,Biology,Fill in,152,63,36,27,Stamen,Stigma,11/10/2019,,57.14%,42.86%,41.45%,3,126.545283
+109,"In chemistry, the amount of a substance is measured in __",Chemistry,Fill in,141,64,56,8,Moles,grams,11/10/2019,,87.50%,12.50%,45.39%,4,126.545283
+110,Only 5% of the universe is observable matter.,Astrophysics,True or False,137,63,46,17,TRUE,FALSE,11/10/2019,,73.02%,26.98%,45.99%,5,126.545283
+111,"Hurricanes, Cyclones, and Typhoons are the same thing.",Geography,True or False,147,70,20,50,TRUE,FALSE,18/10/2019,,28.57%,71.43%,47.62%,1,126.545283
+112,Centripetal force points __,Physics,Fill in,140,67,44,23,Towards the center of rotation,Away from the center of rotation,18/10/2019,,65.67%,34.33%,47.86%,2,126.545283
+113,Both plant and animal cells have a cell wall.,Biology,True or False,133,67,30,37,FALSE,TRUE,18/10/2019,,44.78%,55.22%,50.38%,3,126.545283
+114,Which planet has the tallest mountain in the solar system?,Astronomy,Question,125,67,34,33,Mars,Saturn,18/10/2019,,50.75%,49.25%,53.60%,4,126.545283
+115,Distillation takes advantage of which physical property?,Chemistry,Question,123,67,57,10,The boiling point of a substance,The melting point of a substance,18/10/2019,,85.07%,14.93%,54.47%,5,126.545283
+116,What is EEG used for?,Neurology,Question,141,42,35,7,Recording signals from the brain,Transmitting signals to the brain,25/10/2019,,83.33%,16.67%,29.79%,1,126.545283
+117,The Universe's expansion can be used to calculate its age.,Astrophysics,True or False,128,41,37,4,TRUE,FALSE,25/10/2019,,90.24%,9.76%,32.03%,2,126.545283
+118,Induction motors require __ to function.,Physics,Fill in,116,41,31,10,Alternating current,Direct current,25/10/2019,,75.61%,24.39%,35.34%,3,126.545283
+119,Snails have both male and female reproductive organs.,Biology,True or False,116,43,34,9,TRUE,FALSE,25/10/2019,,79.07%,20.93%,37.07%,4,126.545283
+120,The nearest star after the Sun is called __,Astronomy,Fill in,115,41,34,7,Alpha Centauri,Betelgeuse,25/10/2019,,82.93%,17.07%,35.65%,5,126.545283
+121,Apple seeds release cyanide when chewed.,Chemistry,True or False,165,84,59,25,TRUE,FALSE,01/11/2019,,70.24%,29.76%,50.91%,1,126.545283
+122,__ undergo metamorphosis.,Biology,Fill in,149,79,64,15,Insects,Mammals,01/11/2019,,81.01%,18.99%,53.02%,2,126.545283
+123,Most commercial solar panels are less than 20% efficient.,Physics,True or False,139,76,49,27,TRUE,FALSE,01/11/2019,,64.47%,35.53%,54.68%,3,126.545283
+124,Latex is a milky liquid from plants used to make __,General,Fill in,130,78,73,5,Natural rubber,Shampoo,01/11/2019,,93.59%,6.41%,60.00%,4,126.545283
+125,"Which cannabinoid in cannabis induces the ""High"" feeling?",Biology,Question,128,79,63,16,Tetrahydrocannabinol THC,Cannabidiol CBD,01/11/2019,,79.75%,20.25%,61.72%,5,126.545283
+126,Alzheimer's disease affects your __,Biology,Fill in,156,83,79,4,Brain,Heart,08/11/2019,,95.18%,4.82%,53.21%,1,126.545283
+127,Iron is the most abundant element in the Earth's crust,Geography,True or False,152,82,28,54,FALSE,TRUE,08/11/2019,,34.15%,65.85%,53.95%,2,126.545283
+128,What is considered to be the cosmic speed limit?,Physics,Question,147,80,68,12,Speed of light,Speed of sound,08/11/2019,,85.00%,15.00%,54.42%,3,126.545283
+129,Which element is used in rechargeable batteries?,Chemistry,Question,136,83,73,10,Lithium,Carbon,08/11/2019,,87.95%,12.05%,61.03%,4,126.545283
+130,Schrodinger's Cat is a thought experiment to __,Physics,Fill in,133,81,53,28,Explain quantum mechanics,Explain astrophysics,08/11/2019,,65.43%,34.57%,60.90%,5,126.545283
+131,DNA is made up of __ chemical units.,Biology,Fill in,169,78,46,32,Four,Two,15/11/2019,,58.97%,41.03%,46.15%,1,126.545283
+132,Which is the main element used in nuclear bombs?,Physics,Question,160,81,70,11,Plutonium,Potassium,15/11/2019,,86.42%,13.58%,50.63%,2,126.545283
+133,Exfoliation is a form of chemical weathering.,Geography,True or False,151,80,24,56,FALSE,TRUE,15/11/2019,,30.00%,70.00%,52.98%,3,126.545283
+134,"Which chemical produces a ""rotten egg"" smell?",Chemistry,Question,144,80,67,13,Hydrogen sulphide,Hydrogen peroxide,15/11/2019,,83.75%,16.25%,55.56%,4,126.545283
+135,Different colours of light have different energy levels.,Physics,True or False,137,79,73,6,TRUE,FALSE,15/11/2019,,92.41%,7.59%,57.66%,5,126.545283
+136,True north and magnetic north are different.,Geography,True or False,166,76,49,27,TRUE,FALSE,22/11/2019,,64.47%,35.53%,45.78%,1,126.545283
+137,__ gives plants their green colour.,Biology,Fill in,151,81,72,9,Chlorophyll,Chloroplasts,22/11/2019,,88.89%,11.11%,53.64%,2,126.545283
+138,Which blood type can donate to every other type?,Biology,Question,144,82,66,16,O-,AB+,22/11/2019,,80.49%,19.51%,56.94%,3,126.545283
+139,__ is associated with our sense of smell.,Biology,Fill in,137,77,53,24,Olfactory receptors,Nociceptors,22/11/2019,,68.83%,31.17%,56.20%,4,126.545283
+140,All metals can be turned into permanent magnets.,Physics,True or False,137,79,63,16,FALSE,TRUE,22/11/2019,,79.75%,20.25%,57.66%,5,126.545283
+141,Human ears can hear sounds between 20Hz and 20kHz.,Biology,True or False,161,76,53,23,TRUE,FALSE,06/12/2019,,69.74%,30.26%,47.20%,1,126.545283
+142,Which noble gas is used in incandescent light bulbs?,Chemistry,Question,153,78,39,39,Argon,Neon,06/12/2019,,50.00%,50.00%,50.98%,2,126.545283
+143,What forms when a river and the ocean meet?,Geography,Question,146,79,53,26,A delta,A lagoon,06/12/2019,,67.09%,32.91%,54.11%,3,126.545283
+144,Birds have hollow bones.,Biology,True or False,129,73,49,24,TRUE,FALSE,06/12/2019,,67.12%,32.88%,56.59%,4,126.545283
+145,The magnets of an MRI machine are cooled using __,Physics,Fill in,124,66,16,50,Liquid Helium,Liquid Hydrogen,06/12/2019,,24.24%,75.76%,53.23%,5,126.545283
+146,Enzymes are sometimes used in laundry detergents.,Biology,True or False,152,69,61,8,TRUE,FALSE,13/12/2019,,88.41%,11.59%,45.39%,1,126.545283
+147,The ozone layer __,Geography,Fill in,138,70,59,11,Protects us from ultraviolet radiation,Prevents our atmosphere from dissipating,13/12/2019,,84.29%,15.71%,50.72%,2,126.545283
+148,Adults have more individual bones than babies,Biology,True or False,136,70,45,25,FALSE,TRUE,13/12/2019,,64.29%,35.71%,51.47%,3,126.545283
+149,We can only reach terminal velocity __,Physics,Fill in,130,66,19,47,When falling in a fluid,When falling in a vaccume,13/12/2019,,28.79%,71.21%,50.77%,4,126.545283
+150,Which instrument is used to measure radiation?,Physics,Question,127,68,46,22,Geiger counter,Venier caliper,13/12/2019,,67.65%,32.35%,53.54%,5,126.545283
+151,Which is the hottest planet in our solar system?,Astronomy,Question,204,86,35,51,Venus,Mercury,14/02/2020,,40.70%,59.30%,42.16%,1,126.545283
+152,What kind of lens can focus light?,Physics,Question,187,77,33,44,Convex lens,Concave lens,14/02/2020,,42.86%,57.14%,41.18%,2,126.545283
+153,A Virus can be viewed under a light microscope.,Biology,True or False,176,75,43,32,FALSE,TRUE,14/02/2020,,57.33%,42.67%,42.61%,3,126.545283
+154,Desalination is the process of __,Chemistry,Fill in ,169,71,58,13,Removing salts and minerals from substances like water.,Filtering visible particles out of fresh water.,14/02/2020,,81.69%,18.31%,42.01%,4,126.545283
+155,__ join points on a map that are at equal height.,Geography,Fill in ,170,69,46,23,Contour lines,Lines of latitude,14/02/2020,,66.67%,33.33%,40.59%,5,126.545283
+156,What is a topographic map?,Geography,Question,202,74,43,31,A map that shows man made structures.,A map that shows bodies of water. ,21/02/2020,,58.11%,41.89%,36.63%,1,126.545283
+157,Quantum superposition is when __,Physics,Fill in ,185,71,55,16,A particle is in multiple quantum states at once.,A particle is moving faster than light.,21/02/2020,,77.46%,22.54%,38.38%,2,126.545283
+158,Stem cells can develop into many different cell types.,Biology,True or False,176,77,66,11,TRUE,FALSE,21/02/2020,,85.71%,14.29%,43.75%,3,126.545283
+159,Current is the rate of flow of __,Physics,Fill in ,159,76,56,20,Charge,Voltage,21/02/2020,,73.68%,26.32%,47.80%,4,126.545283
+160,What is at the center of the Milky Way galaxy?,Astronomy,Question,153,76,62,14,A massive black hole.,The biggest star in the galaxy,21/02/2020,,81.58%,18.42%,49.67%,5,126.545283
+161,A vertebrate is an animal __,Biology,Fill in ,182,82,77,5,with a spinal coloum,that walks on 2 legs,28/02/2020,,93.90%,6.10%,45.05%,1,126.545283
+162,There are only 4 fundamental forces in nature.,Physics,True or False,178,80,54,26,TRUE,FALSE,28/02/2020,,67.50%,32.50%,44.94%,2,126.545283
+163,Chlorofluorocarbons (CFCs) were banned because __,Chemistry,Fill in ,173,76,60,16,they were linked to Ozone layer depletion,they were linked to development of cancer,28/02/2020,,78.95%,21.05%,43.93%,3,126.545283
+164,What is the basic unit in a quantum computer?,Computer Science,Question,162,79,36,43,Qbit,bit,28/02/2020,,45.57%,54.43%,48.77%,4,126.545283
+165,The prefrontal cortex is not used for decision making,Biology,True or False,154,77,45,32,FALSE,TRUE,28/02/2020,,58.44%,41.56%,50.00%,5,126.545283
+166,Moore's Law predicts an increase in __,Computer Science,Fill in ,159,66,48,18,computing power,screen resolution,06/03/2020,,72.73%,27.27%,41.51%,1,126.545283
+167,"The ""O' in OLED stands for what?",General,Question,146,67,13,54,Organic,Optimized,06/03/2020,,19.40%,80.60%,45.89%,2,126.545283
+168,Some Squids can change colour at will.,Biology,True or False,138,64,58,6,TRUE,FALSE,06/03/2020,,90.63%,9.38%,46.38%,3,126.545283
+169,A virus can mutate by getting RNA from another virus.,Biology,True or False,134,65,57,8,TRUE,FALSE,06/03/2020,,87.69%,12.31%,48.51%,4,126.545283
+170,Where does the signal for a reflex action originate?,Biology,Question,133,68,42,26,The spine,The brain,06/03/2020,,61.76%,38.24%,51.13%,5,126.545283
+171,The midsection of an insect is called the __,Biology,Fill in ,162,73,50,23,thorax,abdomen,13/03/2020,,68.49%,31.51%,45.06%,1,126.545283
+172,Species is the most specific classification of an animal.,Biology,True or False,156,73,40,33,TRUE,FALSE,13/03/2020,,54.79%,45.21%,46.79%,2,126.545283
+173,What material is only one atom layer thick?,Chemistry,Question,148,69,45,24,Graphene,Graphite,13/03/2020,,65.22%,34.78%,46.62%,3,126.545283
+174,Our atmosphere is a fluid.,Physics,True or False,141,71,33,38,TRUE,FALSE,13/03/2020,,46.48%,53.52%,50.35%,4,126.545283
+175,What is the most abundant element in the universe?,Astronomy,Question,140,67,30,37,Hydrogen,Carbon,13/03/2020,,44.78%,55.22%,47.86%,5,126.545283
+176,Gravity is directly proportional to mass.,Physics,True or False,146,72,35,37,TRUE,FALSE,20/03/2020,,48.61%,51.39%,49.32%,1,126.545283
+177,The lymphatic system is a part of __,Biology,Fill in,139,69,51,18,the Immune system.,the respitory system,20/03/2020,,73.91%,26.09%,49.64%,2,126.545283
+178,Covid-19 is just one disease caused by the Coronavirus,Biology,True or False,136,69,43,26,TRUE,FALSE,20/03/2020,,62.32%,37.68%,50.74%,3,126.545283
+179,Interstellar travel means traveling __,Astronomy,Fill in,130,70,45,25,between stars,between planets,20/03/2020,,64.29%,35.71%,53.85%,4,126.545283
+180,Capacitors are electrical components that store energy.,Physics,True or False,129,68,60,8,TRUE,FALSE,20/03/2020,,88.24%,11.76%,52.71%,5,126.545283
+181,Which man-made object is farthest away from Earth?,Astronomy ,Question,150,68,54,14,The Voyager 1 probe,The Mars Rover ,03/04/2020,,79.41%,20.59%,45.33%,1,126.545283
+182,Diamond is the hardest natural substance on earth.,Chemistry ,True or False,139,72,53,19,TRUE,FALSE,03/04/2020,,73.61%,26.39%,51.80%,2,126.545283
+183,The Sun is mainly made up of __,Astronomy ,Fill in,132,72,51,21,Hydrogen,Helium,03/04/2020,,70.83%,29.17%,54.55%,3,126.545283
+184,Before transistors computers were made from __,Computer Science ,Fill in,125,70,22,48,Vaccume Tubes,Capacitors,03/04/2020,,31.43%,68.57%,56.00%,4,126.545283
+185,Gravitational waves can travel faster than light.,Physics,True or False,120,67,53,14,FALSE,TRUE,03/04/2020,,79.10%,20.90%,55.83%,5,126.545283
+186,The humidity of air is measured using __,Geography,Fill in,166,90,35,55,A hygrometer,A barometer,10/04/2020,,38.89%,61.11%,54.22%,1,126.545283
+187,The Moon rotates as it revolves around Earth.,Astronomy,True or False,158,88,44,44,FALSE,TRUE,10/04/2020,,50.00%,50.00%,55.70%,2,126.545283
+188,Where are red blood cells made in the body?,Biology,Question,145,87,70,17,The bone marrow,The heart,10/04/2020,,80.46%,19.54%,60.00%,3,126.545283
+189,Which body part makes use of peristalsis?,Biology,Question,139,88,66,22,The oesophagus,The lungs,10/04/2020,,75.00%,25.00%,63.31%,4,126.545283
+190,About 1.3 Million Earths could fit inside the Sun,Astronomy,True or False,135,83,68,15,TRUE,FALSE,10/04/2020,,81.93%,18.07%,61.48%,5,126.545283
+191,Fiber optic cables transfer data at the speed of light.,Physics,True or False,159,80,55,25,TRUE,FALSE,17/04/2020,,68.75%,31.25%,50.31%,1,126.545283
+192,Mitochondrial DNA comes exclusively from __,Biology,Fill in,150,78,48,30,the mother,the farther,17/04/2020,,61.54%,38.46%,52.00%,2,126.545283
+193,The San Andreas fault is in which American state?,Geography,Question,141,77,48,29,California,Florida,17/04/2020,,62.34%,37.66%,54.61%,3,126.545283
+194,A benzene ring has the shape of a __,Chemistry,Fill in,133,73,56,17,Hexagon,Pentagon,17/04/2020,,76.71%,23.29%,54.89%,4,126.545283
+195,It's impossible to grow diamonds in a lab.,Chemistry,True or False,129,77,55,22,FALSE,TRUE,17/04/2020,,71.43%,28.57%,59.69%,5,126.545283
+196,Which crystal is used to keep time in most devices?,Physics,Question,151,69,67,2,Quartz,Tanzanite,24/04/2020,,97.10%,2.90%,45.70%,1,126.545283
+197,Atoms are mostly empty space.,Physics,True or False,141,68,43,25,TRUE,FALSE,24/04/2020,,63.24%,36.76%,48.23%,2,126.545283
+198,Disease transmission from animals to humans is called __,Biology,Fill in,132,68,26,42,Zoonosis,Cross-infection,24/04/2020,,38.24%,61.76%,51.52%,3,126.545283
+199,Tetrahedral molecular geometry looks like a __,Chemistry,Fill in,131,67,42,25,Pyramid,Cube,24/04/2020,,62.69%,37.31%,51.15%,4,126.545283
+200,Pasteurization is done to make milk __,Chemistry,Fill in,125,66,62,4,last longer,taste better,24/04/2020,,93.94%,6.06%,52.80%,5,126.545283
+201,A compass always points in the direction of __,Geography,Fill in,147,70,53,17,Magnetic North,True North,01/05/2020,,75.71%,24.29%,47.62%,1,126.545283
+202,Anti-matter is the most energy-dense material known.,Physics,True or False,136,65,50,15,TRUE,FALSE,01/05/2020,,76.92%,23.08%,47.79%,2,126.545283
+203,How many equinoxes are there in a year?,Astronomy,Question,128,66,51,15,2,1,01/05/2020,,77.27%,22.73%,51.56%,3,126.545283
+204,Human egg cells contain which chromosomes?,Biology,Question,120,69,50,19,X,Y,01/05/2020,,72.46%,27.54%,57.50%,4,126.545283
+205,When elements lose some electrons __,Chemistry,Fill in,122,67,60,7,The become ions,They start to decay,01/05/2020,,89.55%,10.45%,54.92%,5,126.545283
+206,Which periodic table group does lithium belong to?,Chemistry,Question,152,64,40,24,Alkali metals,Transition metals,08/05/2020,,62.50%,37.50%,42.11%,1,126.545283
+207,A terabyte is a 1 with how many zeros?,Computer Science,Question,143,65,39,26,12 zeros,9 zeros,08/05/2020,,60.00%,40.00%,45.45%,2,126.545283
+208,Antibiotics are used to treat __,Biology,Fill in,127,67,61,6,Bacterial infections,Viral diseases,08/05/2020,,91.04%,8.96%,52.76%,3,126.545283
+209,The deeper you dive underwater the lower the external pressure.,Physics,True or False,120,67,49,18,FALSE,TRUE,08/05/2020,,73.13%,26.87%,55.83%,4,126.545283
+210,A neutron has no net charge.,Physics,True or False,119,64,51,13,TRUE,FALSE,08/05/2020,,79.69%,20.31%,53.78%,5,126.545283
+211,Which part of our cells produces the most energy?,Biology,Question,164,88,68,20,The mitochondria,The nucleus,15/05/2020,,77.27%,22.73%,53.66%,1,126.545283
+212,The first layer of the Earth's atmosphere from the ground up __.,Geography,Fill in,156,86,32,54,Troposhpere,Stratosphere,15/05/2020,,37.21%,62.79%,55.13%,2,126.545283
+213,Plants always absorb oxygen and release carbon dioxide.,Biology,True or False,148,86,61,25,FALSE,TRUE,15/05/2020,,70.93%,29.07%,58.11%,3,126.545283
+214,Which type of computer storage is designed to be permanent?,Computer Science,Question,142,86,59,27,ROM,RAM,15/05/2020,,68.60%,31.40%,60.56%,4,126.545283
+215,Gold is used instead of copper for smartphone circuits because __.,Chemistry,Fill in,145,84,68,16,its more resistant to oxidation and corrosion.,its a better conductor.,15/05/2020,,80.95%,19.05%,57.93%,5,126.545283
+216,A diode is designed to __,Physics,Fill in,149,78,62,16,make current flow in one direction.,increase the voltage of a battery.,22/05/2020,,79.49%,20.51%,52.35%,1,126.545283
+217,Space and time are woven together like a fabric.,Physics,True or False,136,79,67,12,TRUE,FALSE,22/05/2020,,84.81%,15.19%,58.09%,2,126.545283
+218,Malaria is spread by the __,Biology,Fill in,129,79,71,8,female anopheles mosquito.,male anopheles mosquito.,22/05/2020,,89.87%,10.13%,61.24%,3,126.545283
+219,What is a nickname for the gaussian distribution?,General,Question,125,79,53,26,The bell curve,The open loop curve,22/05/2020,,67.09%,32.91%,63.20%,4,126.545283
+220,Earth is the only planet in our solar system with water.,Astronomy,True or False,128,78,57,21,FALSE,TRUE,22/05/2020,,73.08%,26.92%,60.94%,5,126.545283
+221,Which is the simplest sugar?,Chemistry,Question,144,88,63,25,Glucose,Sucrose,29/05/2020,,71.59%,28.41%,61.11%,1,126.545283
+222,Some bird species contribute to pollination.,Biology,True or False,138,90,85,5,TRUE,FALSE,29/05/2020,,94.44%,5.56%,65.22%,2,126.545283
+223,Entomology is the study of __,Biology,Fill in,133,90,80,10,Insects,Fish,29/05/2020,,88.89%,11.11%,67.67%,3,126.545283
+224,Which is the common state of matter in the universe?,Astronomy,Question,129,90,37,53,Plasma,Gas,29/05/2020,,41.11%,58.89%,69.77%,4,126.545283
+225,Most nuclear power plants __ as a coolant.,Physics,Fill in,128,89,44,45,Water,Nitrogen,29/05/2020,,49.44%,50.56%,69.53%,5,126.545283
+226,Which acid can be found in the human stomach?,Biology,Question,144,77,55,22,Hydrochloric acid,Nitric acid,05/06/2020,,71.43%,28.57%,53.47%,1,126.545283
+227,The coldest planet in our solar system is __.,Astronomy,Fill in,136,76,46,30,Neptune,Uranus,05/06/2020,,60.53%,39.47%,55.88%,2,126.545283
+228,A tortoise spends most of its life in water.,Biology,True or False,132,76,59,17,FALSE,TRUE,05/06/2020,,77.63%,22.37%,57.58%,3,126.545283
+229,A sonic boom happens when __.,Physics,Fill in,129,74,70,4,an object starts travelling faster than sound.,an object escapes Earth's gravity.,05/06/2020,,94.59%,5.41%,57.36%,4,126.545283
+230,Carbon monoxide is poisonous to humans.,Chemistry,True or False,128,75,72,3,TRUE,FALSE,05/06/2020,,96.00%,4.00%,58.59%,5,126.545283
+231,Spending time in space reduces bone density.,Biology,True or False,142,80,60,20,TRUE,FALSE,12/06/2020,,75.00%,25.00%,56.34%,1,126.545283
+232,Which type of plant is nonflowering?,Biology,Question,139,81,43,38,Fern,Grass,12/06/2020,,53.09%,46.91%,58.27%,2,126.545283
+233,The mantle is the thickest layer of the Earth.,Geography,True or False,137,77,42,35,TRUE,FALSE,12/06/2020,,54.55%,45.45%,56.20%,3,126.545283
+234,Which quantum phenomenon is nicknamed spooky action?,Physics,Question,132,74,34,40,Quantum Entanglement,Quantum Superposition,12/06/2020,,45.95%,54.05%,56.06%,4,126.545283
+235,Bees collect __ to make honey.,Biology,Fill in,131,79,36,43,Nectar,Pollen,12/06/2020,,45.57%,54.43%,60.31%,5,126.545283
+236,Buoyancy is a force exerted by a fluid.,Physics,True or False,150,86,71,15,TRUE,FALSE,19/06/2020,,82.56%,17.44%,57.33%,1,126.545283
+237,Work done is equal to force times __.,Physics,Fill in,145,82,59,23,distance travelled,time taken,19/06/2020,,71.95%,28.05%,56.55%,2,126.545283
+238,Cattle produce methane gas.,Biology,True or False,137,78,70,8,TRUE,FALSE,19/06/2020,,89.74%,10.26%,56.93%,3,126.545283
+239,Superconducting materials have __.,Physics,Fill in,135,80,61,19,zero electrical resistance,inifinite electrical resistance,19/06/2020,,76.25%,23.75%,59.26%,4,126.545283
+240,Which element is the strongest oxidizing agent?,Chemistry,Question,134,79,36,43,Fluorine,Sodium,19/06/2020,,45.57%,54.43%,58.96%,5,126.545283
+241,Sound can be considered as a form of energy.,Physics,True or False,177,101,93,8,TRUE,FALSE,26/06/2020,,92.08%,7.92%,57.06%,,126.545283
+242,The friction on a car tyre __.,Physics,Fill in,168,97,19,78,acts in the same direction the car is travelling.,acts in the opposite direction the car is travelling.,26/06/2020,,19.59%,80.41%,57.74%,,126.545283
+243,The sun generates a magnetic field.,Astronomy,True or False,157,97,82,15,TRUE,FALSE,26/06/2020,,84.54%,15.46%,61.78%,,126.545283
+244,Which organ is the same size from birth till death?,Biology,Question,153,97,81,16,The eyes,The brain,26/06/2020,,83.51%,16.49%,63.40%,,126.545283
+245,Which is the heaviest naturally occurring element?,Chemistry,Question,153,97,51,46,Uranium,Lead,26/06/2020,,52.58%,47.42%,63.40%,,126.545283
+246,We can detect minerals on other planets because __,Astronomy,Fill in,158,80,40,40,of the descret energy levels of light.,of the vibrational frequency of different sounds.,03/07/2020,,50.00%,50.00%,50.63%,,126.545283
+247,What creates an Aurora (Polar or Northen lights)?,Geography,Question,149,77,54,23,Disturbances in Earth's Magnetosphere.,Disturbances in the Earth's Gravitational field.,03/07/2020,,70.13%,29.87%,51.68%,,126.545283
+248,Mars is smaller than Earth.,Astronomy,True or False,141,79,47,32,TRUE,FALSE,03/07/2020,,59.49%,40.51%,56.03%,,126.545283
+249,A catalyst __,Chemistry,Fill in,133,80,74,6,speeds up chemical reactions.,slows down chemical reactions.,03/07/2020,,92.50%,7.50%,60.15%,,126.545283
+250,Our gut bacteria can communicate with our brain.,Biology,True or False,129,79,69,10,TRUE,FALSE,03/07/2020,,87.34%,12.66%,61.24%,,126.545283
+251,Why is the sky blue?,Physics,Question,169,88,49,39,because of the light scattered by the atmosphere.,because of the light reflected by the oceans.,10/07/2020,,55.68%,44.32%,52.07%,,126.545283
+252,Migrating birds fly in a V-shape to __,Physics,Fill in,159,86,62,24,reduce drag,scare predatory birds,10/07/2020,,72.09%,27.91%,54.09%,,126.545283
+253,The average adult human has 32 teeth.,Biology,True or False,148,84,74,10,TRUE,FALSE,10/07/2020,,88.10%,11.90%,56.76%,,126.545283
+254,Which component in a smartphone detects steps?,General,Question,145,84,47,37,Accelerometer,Gyroscope,10/07/2020,,55.95%,44.05%,57.93%,,126.545283
+255,Celsius and Fahrenheit’s scales are equal at -40 degrees,Chemistry,True or False,138,84,48,36,TRUE,FALSE,10/07/2020,,57.14%,42.86%,60.87%,,126.545283
+256,How many laws of thermodynamics are there?,Physics,Question,143,85,52,33,Four,Two,17/07/2020,,61.18%,38.82%,59.44%,,126.545283
+257,"For computers, an SSD refers to __",Computer Science,Fill in,139,83,58,25,Solid State Drive,Super Synchronous Drive,17/07/2020,,69.88%,30.12%,59.71%,,126.545283
+258,The mass of an object changes as gravity increases.,Physics,True or False,130,84,44,40,FALSE,TRUE,17/07/2020,,52.38%,47.62%,64.62%,,126.545283
+259,What is the state of matter in lightning?,Chemistry,Question,125,82,59,23,Plasma,Gas,17/07/2020,,71.95%,28.05%,65.60%,,126.545283
+260,It is possible to survive with one Kidney.,Biology,True or False,121,85,81,4,TRUE,FALSE,17/07/2020,,95.29%,4.71%,70.25%,,126.545283
+261,Melanin is a compound that __,Biology,Fill in,144,81,78,3,acts as a pigment in the body.,protects skin against bacteria.,24/07/2020,,96.30%,3.70%,56.25%,,126.545283
+262,Glass is neither a liquid nor a solid.,Chemistry,True or False,137,81,27,54,TRUE,FALSE,24/07/2020,,33.33%,66.67%,59.12%,,126.545283
+263,Propolis is a resin used by which insect?,Biology,Question,131,74,42,32,Bees,Ants,24/07/2020,,56.76%,43.24%,56.49%,,126.545283
+264,Planet alignment is a factor in Mars mission launches.,Astronomy,True or False,131,72,55,17,TRUE,FALSE,24/07/2020,,76.39%,23.61%,54.96%,,126.545283
+265,The asteroid belt is located between which planets?,Astronomy,Question,129,73,58,15,Jupiter and Mars,Mars and Earth,24/07/2020,,79.45%,20.55%,56.59%,,126.545283
+266,Which chemical is the explosive in dynamite?,Chemistry,Question,144,75,54,21,Nitroglycerin,Acetone peroxide,31/07/2020,,72.00%,28.00%,52.08%,,126.545283
+267,Sea ice reflects 80% of the sunlight that hits it to space.,General,True or False,138,75,60,15,TRUE,FALSE,31/07/2020,,80.00%,20.00%,54.35%,,126.545283
+268,The first commercial lightbulb had a __ filament.,Chemistry,Fill in,134,76,32,44,Carbon,Tungsten,31/07/2020,,42.11%,57.89%,56.72%,,126.545283
+269,Which element belongs to the halogen group?,Chemistry,Question,127,76,30,46,Bromine,Argon,31/07/2020,,39.47%,60.53%,59.84%,,126.545283
+270,Elephant tusks and human teeth both contain dentine.,Biology,True or False,124,73,54,19,TRUE,FALSE,31/07/2020,,73.97%,26.03%,58.87%,,126.545283
+271,The build-up of lactic acid can cause muscle cramps.,Biology,True or False,163,97,90,7,TRUE,FALSE,07/08/2020,,92.78%,7.22%,59.51%,,126.545283
+272,Which element is not used in fluorescent lights?,Chemistry,Question,161,97,34,63,Helium,Mercury,07/08/2020,,35.05%,64.95%,60.25%,,126.545283
+273,Moonlight is a result of __,Astronomy,Fill in,155,95,91,4,Sunlight reflecting off of the Moons surface.,Glow in the dark elements on the Moons surface.,07/08/2020,,95.79%,4.21%,61.29%,,126.545283
+274,Which is the smallest planet in our solar systems?,Astronomy,Question,153,98,51,47,Mercury,Neptune,07/08/2020,,52.04%,47.96%,64.05%,,126.545283
+275,Humans cannot digest __,Biology,Fill in,149,97,76,21,Cellulose,Fructose,07/08/2020,,78.35%,21.65%,65.10%,,126.545283
+276,Arc welding is powered by __,General,Fill in,161,88,35,53,Electricity,Gas,14/08/2020,,39.77%,60.23%,54.66%,,126.545283
+277,Orcas (Killer whales) are not mammals.,Biology,True or False,153,88,69,19,FALSE,TRUE,14/08/2020,,78.41%,21.59%,57.52%,,126.545283
+278,Which component is also called an actuator?,Physics,Question,149,84,57,27,A motor,A microphone,14/08/2020,,67.86%,32.14%,56.38%,,126.545283
+279,Goosebumps form as a result of __,Biology,Fill in,143,88,69,19,muscles at the base of each hair contracting.,blood rushing to our skin,14/08/2020,,78.41%,21.59%,61.54%,,126.545283
+280,How do supercapacitors outperform batteries?,Physics,Question,142,86,18,68,They can charge faster.,They can store more energy.,14/08/2020,,20.93%,79.07%,60.56%,,126.545283
+281,All dietary fiber is insoluble.,Biology,True or False,159,91,46,45,FALSE,TRUE,21/08/2020,,50.55%,49.45%,57.23%,,126.545283
+282,What colour is the neutral wire in household plugs?,General,Question,154,89,45,44,Blue,Green,21/08/2020,,50.56%,49.44%,57.79%,,126.545283
+283,The purpose of the villi in the small intestine is __,Biology,Fill in,149,90,69,21,to increase the surface area of absorption.,to push food through the small intestine.,21/08/2020,,76.67%,23.33%,60.40%,,126.545283
+284,Smoke inhalation is the primary cause of death from fires.,Biology,True or False,142,90,87,3,TRUE,FALSE,21/08/2020,,96.67%,3.33%,63.38%,,126.545283
+285,Objects have the colour of the light they __,Physics,Fill in,138,91,74,17,reflect,absorb,21/08/2020,,81.32%,18.68%,65.94%,,126.545283
+286,What happens to concrete when there's no oxygen?,Chemistry,Question,151,83,57,26,It crumbles,Absolutly nothing,28/08/2020,,68.67%,31.33%,54.97%,,126.545283
+287,Clouds form when water vapor condenses.,Geography,True or False,144,83,72,11,TRUE,FALSE,28/08/2020,,86.75%,13.25%,57.64%,,126.545283
+288,Blacksmiths strike hot metals to __,Physics,Fill in,139,85,60,25,increase hardness,increase softness,28/08/2020,,70.59%,29.41%,61.15%,,126.545283
+289,Animals produce weak electromagnetic fields.,Biology,True or False,137,83,54,29,TRUE,FALSE,28/08/2020,,65.06%,34.94%,60.58%,,126.545283
+290,Why can't we fly helicopters on the moon?,Physics,Question,135,82,60,22,There's no atmosphere.,The gravity is too weak.,28/08/2020,,73.17%,26.83%,60.74%,,126.545283
+291,Snakes use their forked tongue to smell.,Biology,True or False,170,105,89,16,TRUE,FALSE,04/09/2020,,84.76%,15.24%,61.76%,,126.545283
+292,Which process recovers drinking water from urine?,Chemistry,Question,161,105,67,38,Distilation,Filtration,04/09/2020,,63.81%,36.19%,65.22%,,126.545283
+293,Microwaves heat up food by vibrating __,Physics,Fill in,158,106,66,40,Water molecules in the food.,Oxygen atoms in the surrounding air.,04/09/2020,,62.26%,37.74%,67.09%,,126.545283
+294,How is heat transferred through a vacuum?,Physics,Question,155,101,56,45,Radiation,Convection,04/09/2020,,55.45%,44.55%,65.16%,,126.545283
+295,Nuclear power is sustainable but not renewable.,General,True or False,154,98,80,18,TRUE,FALSE,04/09/2020,,81.63%,18.37%,63.64%,,126.545283
+296,An object floats in water when it is __,Physics,Fill in,158,94,91,3,Less dense than water,More dense than water,11/09/2020,,96.81%,3.19%,59.49%,,126.545283
+297,Saturn's atmosphere is mostly made of hydrogen.,Astronomy,True or False,148,91,73,18,TRUE,FALSE,11/09/2020,,80.22%,19.78%,61.49%,,126.545283
+298,Isotopes are identified by the fact that they have __,Chemistry,Fill in,145,91,59,32,same number of protons but different number of neutrons.,same number of neutrons but different number of protons,11/09/2020,,64.84%,35.16%,62.76%,,126.545283
+299,Electrons have no mass.,Physics,True or False,136,90,39,51,FALSE,TRUE,11/09/2020,,43.33%,56.67%,66.18%,,126.545283
+300,What forms blood clots when one is injured?,Biology,Question,131,88,75,13,Specialized blood cells called Platelets.,Specialized enzymes found in blood.,11/09/2020,,85.23%,14.77%,67.18%,,126.545283
+301,Snakes dislocate their jaw when swallowing prey.,Biology,True or False,135,90,82,8,TRUE,FALSE,18/09/2020,,91.11%,8.89%,66.67%,,126.545283
+302,A general trend is the smaller the animal __,Biology,Fill in,160,93,84,9,the faster the heart beat.,the slower the heart beat.,18/09/2020,,90.32%,9.68%,58.13%,,126.545283
+303,Which element is used in lithium-ion batteries?,Chemistry,Question,154,92,62,30,Cobalt,Sodium,18/09/2020,,67.39%,32.61%,59.74%,,126.545283
+304,Distilled water can conduct electricity.,Physics,True or False,141,92,43,49,FALSE,TRUE,18/09/2020,,46.74%,53.26%,65.25%,,126.545283
+305,Bile is produced by which organ?,Biology,Question,135,92,38,54,Liver,Pancreas,18/09/2020,,41.30%,58.70%,68.15%,,126.545283
+306,What do bats use to navigate in the dark?,Biology,Question,147,88,73,15,Echolocation,Night vision,25/09/2020,,82.95%,17.05%,59.86%,,126.545283
+307,Calcium is required for muscle contractions.,Biology,True or False,139,87,52,35,TRUE,FALSE,25/09/2020,,59.77%,40.23%,62.59%,,126.545283
+308,__ are specialized cells that convert light to brain signals.,Biology,Fill in,133,86,68,18,Photoreceptors,Neurons,25/09/2020,,79.07%,20.93%,64.66%,,126.545283
+309,Which planet has a runaway greenhouse effect?,Astronomy,Question,128,85,46,39,Venus,Saturn,25/09/2020,,54.12%,45.88%,66.41%,,126.545283
+310,Volatile liquids __,Chemistry,Fill in,125,82,37,45,Evaporate under normal conditions.,React violently with water.,25/09/2020,,45.12%,54.88%,65.60%,,126.545283
+311,Which of these has a higher specific heat capacity?,Chemistry,Question,129,77,34,43,Water,Copper,02/10/2020,,44.16%,55.84%,59.69%,,126.545283
+312,Sodium chloride is a compound found in __,Chemistry,Fill in,126,84,69,15,Table salt,Baking powder,02/10/2020,,82.14%,17.86%,66.67%,,126.545283
+313,Data on a hard drive can be corrupted by a magnet.,Physics,True or False,121,82,72,10,TRUE,FALSE,02/10/2020,,87.80%,12.20%,67.77%,,126.545283
+314,When you touch something that feels warm __,Physics,Fill in,120,82,73,9,You're taking heat energy from the object.,You're giving heat energy to the object.,02/10/2020,,89.02%,10.98%,68.33%,,126.545283
+315,What is the atomic number of Carbon?,Chemistry,Question,115,81,46,35,6,12,02/10/2020,,56.79%,43.21%,70.43%,,126.545283
+316,A herbivore eats plants and animals.,Biology,True or False,137,88,75,13,FALSE,TRUE,09/10/2020,,85.23%,14.77%,64.23%,,126.545283
+317,The pH scale ranges from __,Chemistry,Fill in,129,86,70,16,0 to 14,0 to 7,09/10/2020,,81.40%,18.60%,66.67%,,126.545283
+318,What is the name of our home galaxy?,Astronomy,Question,124,86,72,14,The Milky Way Galaxy,The Spiral Galaxy,09/10/2020,,83.72%,16.28%,69.35%,,126.545283
+319,A joule is a unit of measurement for __,Physics,Fill in,119,84,78,6,energy,atmospheric pressure,09/10/2020,,92.86%,7.14%,70.59%,,126.545283
+320,Methane is a more potent greenhouse gas than CO2.,Geography,True or False,112,84,69,15,TRUE,FALSE,09/10/2020,,82.14%,17.86%,75.00%,,126.545283
+321,What is the main function of the kidneys?,Biology,Question,156,89,83,6,Remove waste products and excess liquid from the body.,Metabolise compounds into a useful form for the body.,16/10/2020,,93.26%,6.74%,57.05%,,126.545283
+322,The sun fuses hydrogen to form __,Physics,Fill in,145,89,54,35,Helium,Oxygen,16/10/2020,,60.67%,39.33%,61.38%,,126.545283
+323,Left-arm numbness might mean a heart attack.,Biology,True or False,140,89,74,15,TRUE,FALSE,16/10/2020,,83.15%,16.85%,63.57%,,126.545283
+324,When does a fuse break the circuit?,Physics,Question,140,88,36,52,When the current is too high.,When the voltage is too high.,16/10/2020,,40.91%,59.09%,62.86%,,126.545283
+325,The gravity of a black hole can bend light.,Physics,True or False,138,87,76,11,TRUE,FALSE,16/10/2020,,87.36%,12.64%,63.04%,,126.545283
+326,Our ears and nose keep their shape because of __,Biology,Fill in,138,84,78,6,cartilage,keratin,23/10/2020,,92.86%,7.14%,60.87%,,126.545283
+327,How do stars form?,Astronomy,Question,128,84,58,26,Accumulation of gas and dust which collapses due to gravity.,Explosion of the molten core of a gas giant planet.,23/10/2020,,69.05%,30.95%,65.63%,,126.545283
+328,An earthquake in the ocean can create a tsunami.,Geography,True or False,123,84,82,2,TRUE,FALSE,23/10/2020,,97.62%,2.38%,68.29%,,126.545283
+329,Which is the most biodiverse country in the world?,Biology,Question,120,86,59,27,Brazil,Congo,23/10/2020,,68.60%,31.40%,71.67%,,126.545283
+330,The __ of a flower becomes the fruit.,Biology,Fill in,119,82,54,28,Ovary,Stigma,23/10/2020,,65.85%,34.15%,68.91%,,126.545283
+331,All planets produce a magnetic field.,Astronomy,True or False,120,80,12,68,FALSE,TRUE,30/10/2020,,15.00%,85.00%,66.67%,,126.545283
+332,How does sweating cool us down?,Biology,Question,113,77,72,5,It removes heat as it evaporates.,It reflects infra red light in the environmrnt.,30/10/2020,,93.51%,6.49%,68.14%,,126.545283
+333,The __ is the largest carbon dioxide absorber on Earth.,Geography,Fill in,110,79,19,60,Ocean,Amazon rainforest,30/10/2020,,24.05%,75.95%,71.82%,,126.545283
+334,Which is essential to maintain an atmosphere?,Astronomy,Question,109,74,46,28,A strong gravity.,Life on the planets surface.,30/10/2020,,62.16%,37.84%,67.89%,,126.545283
+335,A centrifuge is a device used to __,Chemistry,Fill in,109,72,53,19,separate liquids of different densities.,mix liquids of different densities.,30/10/2020,,73.61%,26.39%,66.06%,,126.545283
+336,GPS relies on __ to work.,General,Fill in,126,87,84,3,Satellites,Cellphone towers,06/11/2020,,96.55%,3.45%,69.05%,,126.545283
+337,What is the average walking speed of a human?,Biology,Question,123,86,57,29,5 km/h,1 km/h,06/11/2020,,66.28%,33.72%,69.92%,,126.545283
+338,__ increases nitrogen levels in the soil.,Biology,Fill in,122,87,61,26,Legumes,Grain crops,06/11/2020,,70.11%,29.89%,71.31%,,126.545283
+339,Which organism in the ocean traps the most CO2?,Biology,Question,122,88,51,37,Phytoplankton,Sea weed,06/11/2020,,57.95%,42.05%,72.13%,,126.545283
+340,Humans have traveled further than the moon.,General,True or False,120,87,34,53,FALSE,TRUE,06/11/2020,,39.08%,60.92%,72.50%,,126.545283
+341,Why do babies lose heat faster than adults?,Physics,Question,155,89,36,53,They have a high surfsce area to volume ratio.,Their organs have not developed enough insulation.,13/11/2020,,40.45%,59.55%,57.42%,,126.545283
+342,Our Sun orbits around the center of the galaxy.,Astronomy,True or False,146,87,40,47,TRUE,FALSE,13/11/2020,,45.98%,54.02%,59.59%,,126.545283
+343,__ have been major factors to mass extinctions.,Biology,Fill in,143,87,51,36,Volcanic eruptions,Deadly viruses,13/11/2020,,58.62%,41.38%,60.84%,,126.545283
+344,What do plants produce with photosynthesis?,Biology,Question,140,88,35,53,Glucose,Chlorophyll,13/11/2020,,39.77%,60.23%,62.86%,,126.545283
+345,Planes release more greenhouse gases than cars.,Geography,True or False,136,84,46,38,FALSE,TRUE,13/11/2020,,54.76%,45.24%,61.76%,,126.545283
+346,How many organ systems does the human body have?,Biology,Question,153,102,38,64,11,7,20/11/2020,,37.25%,62.75%,66.67%,,126.545283
+347,__ is the man form of energy loss in electric motors.,Physics,Fill in,149,99,65,34,Resistance,Sound,20/11/2020,,65.66%,34.34%,66.44%,,126.545283
+348,Petroleum jelly is distilled from crude oil byproducts.,Chemistry,True or False,146,98,87,11,TRUE,FALSE,20/11/2020,,88.78%,11.22%,67.12%,,126.545283
+349,Why do we exhale water vapor?,Biology,Question,145,96,49,47,it's a byproduct of the oxygen carbon dioxide transfer.,Because of the moisture in our lungs and mouth.,20/11/2020,,51.04%,48.96%,66.21%,,126.545283
+350,__ are the most energy-efficient sources of light.,Physics,Fill in,139,99,68,31,LED lights,Flourescent lights,20/11/2020,,68.69%,31.31%,71.22%,,126.545283
+351,Which organ belongs to the cardiovascular system?,Biology,Question,158,101,96,5,Heart,Brain,27/11/2020,,95.05%,4.95%,63.92%,,
+352,For a plane to lift off __,Physics,Fill in,151,98,67,31,The pressure below the wings must be higher than above it.,The pressure below the wings must be lower than above it.,27/11/2020,,68.37%,31.63%,64.90%,,
+353,Boiling water stays at 100 Degrees Celsius until it all evaporates.,Chemistry,True or False,139,99,62,37,TRUE,FALSE,27/11/2020,,62.63%,37.37%,71.22%,,
+354,__ is the fastest growing plant on Earth.,Biology,Fill in,136,100,74,26,Bamboo,Wheat,27/11/2020,,74.00%,26.00%,73.53%,,
+355,All objects with mass create a gravitational field.,Physics,True or False,132,96,83,13,TRUE,FALSE,27/11/2020,,86.46%,13.54%,72.73%,,
+356,When a solid absorbs heat energy it __,Physics,Fill in,123,76,72,4,Expands,Contracts,08/01/2021,,94.74%,5.26%,61.79%,,
+357,Inert gases can be used to suppress fires.,Chemistry,True or False,121,74,56,18,TRUE,FALSE,08/01/2021,,75.68%,24.32%,61.16%,,
+358,What causes high tides and low tides?,Geography,Question,108,76,52,24,The moon's gravity,The Ocean currents,08/01/2021,,68.42%,31.58%,70.37%,,
+359,An opaque substance is one that is __,General,Fill in,105,73,68,5,Not transparent,Colourful,08/01/2021,,93.15%,6.85%,69.52%,,
+360,Which teeth are visible when we smile?,Biology,Question,102,72,60,12,The incisors,The molars,08/01/2021,,83.33%,16.67%,70.59%,,
+361,Impurities in water tend to __,Chemistry,Fill in,133,87,41,46,increase the boiling point.,decrease the boiling point.,15/01/2021,,47.13%,52.87%,65.41%,,
+362,The human skull is one solid bone.,Biology,True or False,129,85,51,34,FALSE,TRUE,15/01/2021,,60.00%,40.00%,65.89%,,
+363,What protects us from cosmic radiation?,Astronomy,Question,124,84,15,69,Earth's magnetic field.,The Ozone layer.,15/01/2021,,17.86%,82.14%,67.74%,,
+364,__ is the common term for disease-causing organisms.,Biology,Fill in,123,81,60,21,Pathogen,Parasite,15/01/2021,,74.07%,25.93%,65.85%,,
+365,Volcanic eruptions can sometimes form a new island.,Geography,True or False,122,81,77,4,TRUE,FALSE,15/01/2021,,95.06%,4.94%,66.39%,,
+366,The mold that grows on bread is a type of __,Biology,Fill in,121,84,74,10,Fungus,Bacteria,22/01/2021,,88.10%,11.90%,69.42%,,
+367,Which material would stop gamma rays?,Physics,Question,114,84,61,23,A thick sheet of lead,A thick sheet of aluminium,22/01/2021,,72.62%,27.38%,73.68%,,
+368,Antarctica is a desert.,Geography,True or False,115,85,42,43,TRUE,FALSE,22/01/2021,,49.41%,50.59%,73.91%,,
+369,What causes a mirage?,Physics,Question,112,83,44,39,The refraction of light as it moves from cold to hot air.,The reflection of sunlight off of a hot surface.,22/01/2021,,53.01%,46.99%,74.11%,,
+370,A ticker-tape timer can be used to calculate speed.,Physics,True or False,110,79,64,15,TRUE,FALSE,22/01/2021,,81.01%,18.99%,71.82%,,
+371,__ use nuclear fusion to generate heat.,Physics,Fill in,121,78,27,51,Stars,Nuclear power plants,29/01/2021,,34.62%,65.38%,64.46%,,
+372,Dendrites are a feature of which type of cell?,Biology,Question,116,73,47,26,Neuron,White blood cell,29/01/2021,,64.38%,35.62%,62.93%,,
+373,The Earth's orbit around the sun is a perfect circle.,Astronomy,True or False,112,72,61,11,FALSE,TRUE,29/01/2021,,84.72%,15.28%,64.29%,,
+374,A full-wave rectifier circuit __,Physics,Fill in,109,70,38,32,Converts alternating current to direct current (AC to DC),Convert FM radio waves to AM radio waves.,29/01/2021,,54.29%,45.71%,64.22%,,
+375,Which element is found in household bleach?,Chemistry,Question,106,71,59,12,Chlorine,Fluorine,29/01/2021,,83.10%,16.90%,66.98%,,
+376,How do we measure gravitational waves?,Physics,Question,117,68,16,52,Using mirrors and lasers on Earth.,Using a network of satellites in orbit.,05/02/2021,,23.53%,76.47%,58.12%,,
+377,The division of a cell is also known as __,Biology,Fill in,113,67,58,9,Mitosis,Miosis,05/02/2021,,86.57%,13.43%,59.29%,,
+378,Infrared light is visible to the human eye.,Biology,True or False,108,69,54,15,FALSE,TRUE,05/02/2021,,78.26%,21.74%,63.89%,,
+379,Which element has no neutrons?,Chemistry,Question,105,69,37,32,Hydrogen,Helium,05/02/2021,,53.62%,46.38%,65.71%,,
+380,__ in the atmosphere can cause acid rain.,Geography,Fill in,102,68,51,17,Sulphur dioxide,Carbon monoxide,05/02/2021,,75.00%,25.00%,66.67%,,
+381,Which planet has the most moons?,Astronomy,Question,138,82,49,33,Jupiter,Saturn,12/02/2021,,59.76%,40.24%,59.42%,,
+382,Scurvy is caused by a lack of __,Biology,Fill in,123,85,56,29,Vitamin C,Vitamin D,12/02/2021,,65.88%,34.12%,69.11%,,
+383,Lasers can be made by focusing regular light.,Physics,True or False,122,82,29,53,FALSE,TRUE,12/02/2021,,35.37%,64.63%,67.21%,,
+384,The Hyperloop is __,General,Fill in,117,79,63,16,A mode of transport,A type of surgery,12/02/2021,,79.75%,20.25%,67.52%,,
+385,Which component is most similar to a transistor?,Computer Science,Question,112,83,45,38,A switch,A fuse,12/02/2021,,54.22%,45.78%,74.11%,,
+386,Which planet has the stronger gravity?,Astronomy,Question,134,88,56,32,Jupiter,Mercury,19/02/2021,,63.64%,36.36%,65.67%,,
+387,Cardboard boxes can be broken down in compost.,General,True or False,126,85,63,22,TRUE,FALSE,19/02/2021,,74.12%,25.88%,67.46%,,
+388,Telomeres are a feature found on __.,Biology,Fill in,122,81,49,32,The ends of a chromosome,The adjustable lens of a telescope,19/02/2021,,60.49%,39.51%,66.39%,,
+389,Which periodic table group reacts violently with water?,Chemistry,Question,119,81,48,33,Alkali metals,Halogens,19/02/2021,,59.26%,40.74%,68.07%,,
+390,A rail gun uses __ to launch projectiles.,Physics,Fill in,118,81,30,51,Electromagnetic force,Compressed air,19/02/2021,,37.04%,62.96%,68.64%,,
+391,The strength of a planet's gravitational field __,Physics,Fill in,111,72,51,21,is proportional to it's mass,is propotional to it's distance from the sun,26/02/2021,,70.83%,29.17%,64.86%,,
+392,Joints have fluid between them to reduce friction.,Biology,True or False,109,71,68,3,TRUE,FALSE,26/02/2021,,95.77%,4.23%,65.14%,,
+393,Which is the primary cause for seasons on Earth?,Geography,Question,105,73,37,36,The tilted axis,The oval rotation around the sun,26/02/2021,,50.68%,49.32%,69.52%,,
+394,The elementary particle for strong nuclear force is __,Physics,Fill in,103,71,12,59,the gluon,the photon,26/02/2021,,16.90%,83.10%,68.93%,,
+395,All stars explode and become black holes.,Biology,True or False,101,65,39,26,FALSE,TRUE,26/02/2021,,60.00%,40.00%,64.36%,,
+396,The function of the xylem is to __,Biology,Fill in,113,67,39,28,transport water and nutrients in a plant.,give plants their rigid structure,05/03/2021,,58.21%,41.79%,59.29%,,
+397,Projectile motion forms a parabola curve.,Physics,True or False,104,70,62,8,TRUE,FALSE,05/03/2021,,88.57%,11.43%,67.31%,,
+398,Which is the heavier element?,Chemistry,Question,101,67,30,37,Uranium,Lead,05/03/2021,,44.78%,55.22%,66.34%,,
+399,Pluto is now classified as a __,Astronomy,Fill in,99,66,57,9,a dwarf planet,an asteroid,05/03/2021,,86.36%,13.64%,66.67%,,
+400,Why is aluminum used to make airplanes?,General,Question,97,66,58,8,It's strength to weight ratio.,It's resistance to corrosion,05/03/2021,,87.88%,12.12%,68.04%,,
+401,Plants tend to follow the sunlight as they grow.,Biology,True or False,118,84,81,3,TRUE,FALSE,12/03/2021,,96.43%,3.57%,71.19%,,
+402,For water to evaporate its molecules __,Physics,Fill in,115,83,69,14,Need to gain energy,Need to loose energy,12/03/2021,,83.13%,16.87%,72.17%,,
+403,Which organ produces insulin?,Biology,Question,113,84,72,12,Pancreas,Liver,12/03/2021,,85.71%,14.29%,74.34%,,
+404,A litmus test can help determine __,Chemistry,Fill in,113,83,72,11,The pH of a substance,The volatility of a substance,12/03/2021,,86.75%,13.25%,73.45%,,
+405,Breathing in 100% oxygen is fine for humans.,Biology,True or False,112,84,72,12,FALSE,TRUE,12/03/2021,,85.71%,14.29%,75.00%,,
+406,If a distant star has an observable wobble __,Astronomy,Fill in,112,58,22,36,It may have planets orbiting it.,It's nearing the end of its life.,19/03/2021,,37.93%,62.07%,51.79%,,
+407,Sharks have smooth skin with no scales.,Biology,True or False,102,63,19,44,FALSE,TRUE,19/03/2021,,30.16%,69.84%,61.76%,,
+408,How long is Jupiter's orbit?,Astronomy,Question,97,60,39,21,12 years,4 years,19/03/2021,,65.00%,35.00%,61.86%,,
+409,The center of gravity changes with gravitational strength.,Physics,True or False,95,60,30,30,FALSE,TRUE,19/03/2021,,50.00%,50.00%,63.16%,,
+410,Why do humans yawn?,Biology,Question,94,59,38,21,To let more oxygen in and carbon dioxide out.,To stretch our face muscles and increase awareness.,19/03/2021,,64.41%,35.59%,62.77%,,
+411,Which bird species is the fastest?,Biology,Question,137,94,77,17,Falcon,Eagle,26/03/2021,,81.91%,18.09%,68.61%,,
+412,Most planets have been observed by __,Astronomy,Fill in,136,91,79,12,Tracking the shadow they make infront of their star,Taking direct pictures of them.,26/03/2021,,86.81%,13.19%,66.91%,,
+413,The Great Rift Valley spans Asia and Africa.,Geography,True or False,128,90,50,40,TRUE,FALSE,26/03/2021,,55.56%,44.44%,70.31%,,
+414,The largest telescope in the southern hemisphere is in __,Astronomy,Fill in,128,92,60,32,South Africa,New Zealand,26/03/2021,,65.22%,34.78%,71.88%,,
+415,A population pyramid has which value for the x-axis?,Geography,Question,125,88,33,55,Numper of people,Age,26/03/2021,,37.50%,62.50%,70.40%,,
+416,A hummingbird's heart rate is 1260 bpm.,Biology,True or False,108,70,62,8,TRUE,FALSE,02/04/2021,,88.57%,11.43%,64.81%,,
+417,Why is alcohol used in perfume?,Chemistry,Question,104,71,47,24,To disolve the perfume oil and act as a diffuser.,To preserve the perfume oil so the fragrance lasts longer. ,02/04/2021,,66.20%,33.80%,68.27%,,
+418,Artificial gravity can be created using rotation.,Physics,True or False,101,70,65,5,TRUE,FALSE,02/04/2021,,92.86%,7.14%,69.31%,,
+419,Stereocilia can be found in which organ?,Biology,Question,100,71,49,22,The Ear,The Nose,02/04/2021,,69.01%,30.99%,71.00%,,
+420,"When it comes to a virus, an antibody test __",Biology,Fill in,96,71,56,15,Can only tell if you've had the virus but not if you still have it.,Can tell if you've had the virus and if you still have it.,02/04/2021,,78.87%,21.13%,73.96%,,
+421,Which part of a fower gets pollinated?,Biology,Question,131,75,46,29,Stigma,Stamen,09/04/2021,,61.33%,38.67%,57.25%,,
+422,Population density is calculated by __,Geography,Fill in,125,75,53,22,number of people / land area,land area / number of people,09/04/2021,,70.67%,29.33%,60.00%,,
+423,What determines the boiling point of a liquid?,Chemistry,Question,112,72,57,15,The bond strength between its molecules.,The bond strength between its atoms.,09/04/2021,,79.17%,20.83%,64.29%,,
+424,"In physics, work done can be negative.",Physics,True or False,107,72,51,21,TRUE,FALSE,09/04/2021,,70.83%,29.17%,67.29%,,
+425,During the formation of chemical bonds __,Chemistry,Fill in,104,73,35,38,there is a decrease in energy,there is an increase in energy,09/04/2021,,47.95%,52.05%,70.19%,,
+426,When our body temperature drops __,Biology,Fill in,146,78,67,11,blood moves away from our arms and legs.,blood moves towards our arms and legs.,16/04/2021,,85.90%,14.10%,53.42%,,
+427,Which is used as an active ingredient in toothpaste?,Chemistry,Question,134,81,77,4,Fluoride,Hydrogen chloride,16/04/2021,,95.06%,4.94%,60.45%,,
+428,Water pumps rely on creating a vacuum to work.,Physics,True or False,126,80,64,16,TRUE,FALSE,16/04/2021,,80.00%,20.00%,63.49%,,
+429,The main difference between butterflies and moths is __,Biology,Fill in,124,78,63,15,Their wing position,Their size,16/04/2021,,80.77%,19.23%,62.90%,,
+430,Which disease is caused by a parasite?,Biology,Question,121,80,64,16,Bilharzia,Cholera,16/04/2021,,80.00%,20.00%,66.12%,,
+431,Viruses cannot replicate on their own.,Biology,True or False,171,95,53,42,TRUE,FALSE,23/04/2021,,55.79%,44.21%,55.56%,,
+432,Which enzyme is found in saliva?,Biology,Question,158,90,68,22,Amylase,Pepsin,23/04/2021,,75.56%,24.44%,56.96%,,
+433,The smallest data storage unit in computers is __,Computer Science,Fill in,149,92,58,34,bit,byte,23/04/2021,,63.04%,36.96%,61.74%,,
+434,Which is the unit for power?,Physics,Question,148,92,65,27,Watt,Joule,23/04/2021,,70.65%,29.35%,62.16%,,
+435,Cooling down a container with gas will __,Physics,Fill in,146,86,60,26,Decrease the pressure,Increase the pressure,23/04/2021,,69.77%,30.23%,58.90%,,
+436,Density stays constant as gravity changes.,Physics,True or False,172,77,37,40,TRUE,FALSE,30/04/2021,,48.05%,51.95%,44.77%,,
+437,Which is a common method used to mine coal?,Geography,Question,158,76,21,55,Surface method,Underground method,30/04/2021,,27.63%,72.37%,48.10%,,
+438,Before entering a black hole we pass through __,Physics,Fill in,142,71,40,31,The event horizon,a wormhole,30/04/2021,,56.34%,43.66%,50.00%,,
+439,Which one is not considered to be a type of soil?,Geography,Question,137,76,45,31,Compost,Clay,30/04/2021,,59.21%,40.79%,55.47%,,
+440,It is correct to say that __,Chemistry,Fill in,135,74,45,29,all compounds are molecules,all molecules are compounds,30/04/2021,,60.81%,39.19%,54.81%,,
+441,The flow of current creates __,Physics,Fill in,117,75,44,31,A Magnetic field around it.,An Electric field around it.,07/05/2021,,58.67%,41.33%,64.10%,,
+442,Isotopes of an element have the same atomic mass.,Chemistry,True or False,110,73,28,45,FALSE,TRUE,07/05/2021,,38.36%,61.64%,66.36%,,
+443,Which is the formula for power?,Physics,Question,105,71,52,19,Energy / Time taken,Force X Distance moved,07/05/2021,,73.24%,26.76%,67.62%,,
+444,The long human tooth is the __,Biology,Fill in,103,71,38,33,Canine,Incisor,07/05/2021,,53.52%,46.48%,68.93%,,
+445,How is an oxbow lake formed?,Geography,Question,104,70,50,20,When a river cuts through a meander neck.,By building a dam at the entrance of a river delta.,07/05/2021,,71.43%,28.57%,67.31%,,
+446,Potential difference is another way of saying __,Physics,Fill in,102,67,44,23,Voltage,Current,14/05/2021,,65.67%,34.33%,65.69%,,
+447,Which sense is developed first in the womb?,Biology,Question,95,68,21,47,Touch,Hearing,14/05/2021,,30.88%,69.12%,71.58%,,
+448,Ships today still use ocean currents to save energy.,Geography,True or False,86,67,62,5,TRUE,FALSE,14/05/2021,,92.54%,7.46%,77.91%,,
+449,When do atoms emit photons?,Chemistry,Question,88,67,44,23,Their electron jump from a higher to lower energy level,They form a covaent bond with another atom.,14/05/2021,,65.67%,34.33%,76.14%,,
+450,The formula for pressure is __,Physics,Fill in,85,67,33,34,Force / Area,Force x Area,14/05/2021,,49.25%,50.75%,78.82%,,
+451,Fire needs oxygen to burn.,Chemistry,True or False,44,32,31,1,TRUE,FALSE,21/05/2021,,96.88%,3.13%,72.73%,,
+452,Which one is an organic compound?,Chemistry,Question,41,32,20,12,Benzene,Water,21/05/2021,,62.50%,37.50%,78.05%,,
+453,Mushrooms use photosynthesis for energy.,Biology,True or False,40,30,25,5,FALSE,TRUE,21/05/2021,,83.33%,16.67%,75.00%,,
+454,__ is one of the fundamental forces of nature.,Physics,Fill in,40,32,28,4,Gravity,Lightning,21/05/2021,,87.50%,12.50%,80.00%,,
+455,The denser the material __,Physics,Fill in,38,32,15,17,the faster sound travels through it,the slower sound travels through it.,21/05/2021,,46.88%,53.13%,84.21%,,
+456,Eucalyptus trees can be used to make paper.,General,True or False,59,45,39,6,TRUE,FALSE,28/05/2021,,86.67%,13.33%,76.27%,,
+457,Stretching a material tests which property?,Physics,Question,59,44,41,3,Tensile strength,Compression strength,28/05/2021,,93.18%,6.82%,74.58%,,
+458,Animals that are active at night are called __,Biology,Fill in,59,45,45,0,Nocturnal,Night Owls,28/05/2021,,100.00%,0.00%,76.27%,,
+459,Which organ is part of the Endocrine system?,Biology,Question,59,45,37,8,Pancreas,Liver,28/05/2021,,82.22%,17.78%,76.27%,,
+460,A catalyst is depleted while speeding up a reaction.,Chemistry,True or False,59,45,10,35,FALSE,TRUE,28/05/2021,,22.22%,77.78%,76.27%,,
+461,What do we call the longer side of a rectangle?,General,Question,37,33,28,5,Length,Width,04/06/2021,,84.85%,15.15%,89.19%,,
+462,Components connected in parallel have the same __,Physics,Fill in,35,31,17,14,Voltage,Current,04/06/2021,,54.84%,45.16%,88.57%,,
+463,Titration is a Method used to determine Concentration.,Chemistry,True or False,34,30,25,5,TRUE,FALSE,04/06/2021,,83.33%,16.67%,88.24%,,
+464,The lock and key model describes __,Biology,Fill in,32,31,29,2,Enzyme action,Oxygen transfer,04/06/2021,,93.55%,6.45%,96.88%,,
+465,Which is the closest spiral galaxy to ours?,Astronomy,Question,32,31,21,10,Andromeda,Hydrus,04/06/2021,,67.74%,32.26%,96.88%,,
+466,Why is chlorine highly reactive?,Chemistry,Question,32,23,20,3,It has 7 electrons in its outer orbital.,It has more neutrons than protons,11/06/2021,,86.96%,13.04%,71.88%,,
+467,The boiling point of a substance is a chemical property.,Chemistry,True or False,30,23,9,14,FALSE,TRUE,11/06/2021,,39.13%,60.87%,76.67%,,
+468,Which is considered to be a part of the brain?,Biology,Question,26,22,18,4,Amygdala,Lymph nodes,11/06/2021,,81.82%,18.18%,84.62%,,
+469,__ is more of a reflex action.,Biology,Fill in,25,22,19,3,Breathing,Walking,11/06/2021,,86.36%,13.64%,88.00%,,
+470,The equation for momentum is mass x velocity.,Physics,True or False,25,22,19,3,TRUE,FALSE,11/06/2021,,86.36%,13.64%,88.00%,,
+471,The brain is part of the nervous system.,Biology,True or False,28,18,13,5,TRUE,FALSE,18/06/2021,,72.22%,27.78%,64.29%,,
+472,Which ions have a positive charge?,Chemistry,Question,31,21,15,6,Cations,Anions,18/06/2021,,71.43%,28.57%,67.74%,,
+473,__ combines smaller molecules in to a chain.,Chemistry,Fill in,30,21,21,0,Polymerization,Condensation,18/06/2021,,100.00%,0.00%,70.00%,,
+474,Objects heat up as they enter Earth's atmoshere __,Astronomy,Fill in,31,21,16,5,Because of friction with air molecules,Because of chemical reactions with air molecules.,18/06/2021,,76.19%,23.81%,67.74%,,
+475,Which partcles carry electromagnetic force?,Physics,Question,30,20,19,1,Photons,Gluons,18/06/2021,,95.00%,5.00%,66.67%,,
+476,The Earth's axis is tilted by about 23.4°.,Geography,True or False,53,31,22,9,TRUE,FALSE,25/06/2021,,70.97%,29.03%,58.49%,,
+477,The auditory nerve is directly connected to __,Biology,Fill in,44,31,14,17,The cochlea,The eardrum,25/06/2021,,45.16%,54.84%,70.45%,,
+478,What is the purpose of car radiators?,Physics,Question,43,30,27,3,To assist in cooling the engine,To assist in warming the engine,25/06/2021,,90.00%,10.00%,69.77%,,
+479,Tears move from the eyes to the nose via the tear duct.,Biology,True or False,42,23,15,8,TRUE,FALSE,25/06/2021,,65.22%,34.78%,54.76%,,
+480,Which organic compounds can smell sweet?,Chemistry,Question,40,32,23,9,Esters,Amides,25/06/2021,,71.88%,28.13%,80.00%,,
+481,What are the units for latitude and longitude?,Geography,Question,49,35,33,2,Degrees,Meters,02/07/2021,,94.29%,5.71%,71.43%,,
+482,Rubbing a balloon creates a __ on its surface.,Physics,Question,49,34,19,15,Negative Charge,Positive Charge,02/07/2021,,55.88%,44.12%,69.39%,,
+483,Rapid Eye Movement (REM) is a part of __,Biology,Fill in,44,35,24,11,Our sleep cycle,Our fight or flight response,02/07/2021,,68.57%,31.43%,79.55%,,
+484,When does condensation occur?,Chemistry,Question,43,34,30,4,When air containing water vapour is cooled,When air containing water vapour is heated,02/07/2021,,88.24%,11.76%,79.07%,,
+485,Bridges expand and contract with changes in temperature.,Physics,True or False,43,34,32,2,TRUE,FALSE,02/07/2021,,94.12%,5.88%,79.07%,,
+486,Which form of heat transfer works in a vacuum?,Physics,Question,46,33,22,11,Radiation,Convection,09/07/2021,,66.67%,33.33%,71.74%,,
+487,The top layer of our skin is called the __,Biology,Fill in,43,33,26,7,Epidermis,Dermis,09/07/2021,,78.79%,21.21%,76.74%,,
+488,Fungi are part of the plant kingdom.,Biology,True or False,42,32,17,15,FALSE,TRUE,09/07/2021,,53.13%,46.88%,76.19%,,
+489,Transistors used in computer processors are __,Computer Science,Fill in,42,30,23,7,Semiconductor,Conductors,09/07/2021,,76.67%,23.33%,71.43%,,
+490,Which planet is similar in size to Earth?,Astronomy,Question,41,31,14,17,Venus,Mars,09/07/2021,,45.16%,54.84%,75.61%,,
+491,What is a synapse?,Biology,Question,58,40,38,2,A junction between two nerve cells,A junction between hair and skin cells,16/07/2021,,95.00%,5.00%,68.97%,,
+492,Caffeine is considered to be a psychoactive drug.,Chemistry,True or False,57,40,36,4,TRUE,FALSE,16/07/2021,,90.00%,10.00%,70.18%,,
+493,The SI unit for Weight is __,Physics,Fill in,55,42,31,11,Newton (N),Kilogram (Kg),16/07/2021,,73.81%,26.19%,76.36%,,
+494,The equator is a line of __,Geography,Fill in,54,42,30,12,Latitude,Longitude,16/07/2021,,71.43%,28.57%,77.78%,,
+495,How long does it take for the Moon to orbit Earth?,Astronomy,Question,54,43,37,6,About 28 days,About 14 days,16/07/2021,,86.05%,13.95%,79.63%,,
+496,Which is the Largest continent by size?,Geography,Question,46,34,19,15,Asia,Africa,23/07/2021,,55.88%,44.12%,73.91%,,
+497,Insulin helps in converting glucose into __,Biology,Fill in,46,36,35,1,Glycogen,Amino acids,23/07/2021,,97.22%,2.78%,78.26%,,
+498,Sodium is an alkali metal.,Chemistry,True or False,46,33,27,6,TRUE,FALSE,23/07/2021,,81.82%,18.18%,71.74%,,
+499,Air resistance is __.,Physics,Fill in,46,34,22,12,A frictional force,An applied force,23/07/2021,,64.71%,35.29%,73.91%,,
+500,Which process makes a beverage fizzy?,Chemistry,Question,46,35,33,2,Carbonation,Hydration,23/07/2021,,94.29%,5.71%,76.09%,,
+501,Static electricity is higher in winter because __,Physics,Fill in,56,31,24,7,The drier air causes more charge build up.,The cooler surfaces can hold charge better.,30/07/2021,,77.42%,22.58%,55.36%,,
+502,Torque is a linear force.,Physics,True or False,50,32,15,17,FALSE,TRUE,30/07/2021,,46.88%,53.13%,64.00%,,
+503,Which body part directs air in and out of the lungs?,Biology,Question,49,33,21,12,Trachea,Esophagus,30/07/2021,,63.64%,36.36%,67.35%,,
+504,Hydrogen bonding is a form of covalent bonding.,Chemistry,True or False,47,31,6,25,FALSE,TRUE,30/07/2021,,19.35%,80.65%,65.96%,,
+505,Bauxite ore primarily consists of which metal?,Geography,Question,48,32,13,19,Aluminium,Iron,30/07/2021,,40.63%,59.38%,66.67%,,
+506,What makes hair curly or straight?,Biology,Question,57,37,14,23,The shape of the hair follicle.,The concentration of keratin.,06/08/2021,,37.84%,62.16%,64.91%,,
+507,Chlorofluorocarbons can be used in coolants.,Chemistry,True or False,52,36,33,3,TRUE,FALSE,06/08/2021,,91.67%,8.33%,69.23%,,
+508,Emulsifiers in detergents are used to dissolve __.,Chemistry,Fill in,49,36,29,7,Oils,Proteins,06/08/2021,,80.56%,19.44%,73.47%,,
+509,BPA has the same structure as which hormone?,Chemistry,Question,48,36,25,11,Estrogen,Testosterone,06/08/2021,,69.44%,30.56%,75.00%,,
+510,All liquids are fluids but not all fluids are liquids,Physics,True or False,48,36,33,3,TRUE,FALSE,06/08/2021,,91.67%,8.33%,75.00%,,
+511,Macrophages are a part of our __,Biology,Fill in,48,37,22,15,Immune system,Nervous system,13/08/2021,,59.46%,40.54%,77.08%,,
+512,Stars are denser than black holes.,Astronomy,True or False,48,36,27,9,FALSE,TRUE,13/08/2021,,75.00%,25.00%,75.00%,,
+513,Understanding protein folding assists with __,Biology,Fill in,48,35,18,17,drug discovery,making dietary supplements,13/08/2021,,51.43%,48.57%,72.92%,,
+514,Which body part contracts during hiccups?,Biology,Question,44,35,33,2,Diaphragm,Rib cage,13/08/2021,,94.29%,5.71%,79.55%,,
+515,An earthquake starts at a fault line.,Geography,True or False,44,36,33,3,TRUE,FALSE,13/08/2021,,91.67%,8.33%,81.82%,,
+516,How many back muscles does an adult human have?,Biology,Question,52,36,19,17,40,14,20/08/2021,,52.78%,47.22%,69.23%,,
+517,It's safe to start a microwave with nothing inside.,General,True or False,51,39,22,17,FALSE,TRUE,20/08/2021,,56.41%,43.59%,76.47%,,
+518,Anemia is a condition in which you lack __,Biology,Fill in,50,38,32,6,Healthy red blood cells,Healthy white blood cells,20/08/2021,,84.21%,15.79%,76.00%,,
+519,What happens to a gas if its pressure is increased?,Physics,Question,49,37,30,7,It condenses,It evaporates,20/08/2021,,81.08%,18.92%,75.51%,,
+520,Which organic compound is produced by our body?,Biology,Question,49,36,18,18,Hyaluronic acid,Salicylic acid,20/08/2021,,50.00%,50.00%,73.47%,,
+521,Why are floating solar panels more efficient?,Physics,Question,114,57,23,34,The water helps keep their temperature down.,They capture more light reflected by the water.,27/08/2021,,40.35%,59.65%,50.00%,,
+522,Extending your arms out while spinning will __,Physics,Fill in,104,57,20,37,Decrease your angular momentum,Not change your angular momentum.,27/08/2021,,35.09%,64.91%,54.81%,,
+523,The kidneys are part of our digestive system.,Biology,True or False,99,58,21,37,FALSE,TRUE,27/08/2021,,36.21%,63.79%,58.59%,,
+524,In a reduction reaction __,Chemistry,Fill in,98,57,37,20,Oxygen is removed from a substance.,Oxygen combines with a substance,27/08/2021,,64.91%,35.09%,58.16%,,
+525,How long does it take sunlight to reach Earth?,Physics,Question,97,55,27,28,About 8 minutes,About 8 seconds,27/08/2021,,49.09%,50.91%,56.70%,,
+526,The human body produces __,Biology,Fill in,50,36,23,13,More than 50 different types of hormones.,Less than 10 different types of hormones,03/09/2021,,63.89%,36.11%,72.00%,,
+527,Photovoltaic cells are made from semiconductors.,Physics,True or False,48,33,4,29,TRUE,FALSE,03/09/2021,,12.12%,87.88%,68.75%,,
+528,The boiling point is when a substance __,Chemistry,Fill in,42,33,32,1,Transitions from liquid to gas,Transitions from solid to liquid,03/09/2021,,96.97%,3.03%,78.57%,,
+529,Which of these materials contain more carbon?,Chemistry,Question,40,33,20,13,Cast iron,Steel,03/09/2021,,60.61%,39.39%,82.50%,,
+530,Botany is the study of what?,Biology,Question,40,31,16,15,All plant life,Only flowering plant life,03/09/2021,,51.61%,48.39%,77.50%,,
